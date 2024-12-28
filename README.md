@@ -21,8 +21,8 @@ The simples chat interface built with Gradio that connects to a local Llama 3.1 
 
 
 ```bash
-git clone https://github.com/miguel-spn/the-simplest-chatbot.git
-cd the-simplest-chatbot
+git clone https://github.com/mummy-coder/simple-chat-bot-ui.git
+cd simple-chat-bot-ui
 ```
 
 2. Install the required packages:
