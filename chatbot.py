@@ -3,6 +3,11 @@ import json
 import requests
 import re
 
+
+
+
+
+
 def clean_response_text(text):
     """
     Cleans the API response text to remove unwanted characters and formatting issues.
